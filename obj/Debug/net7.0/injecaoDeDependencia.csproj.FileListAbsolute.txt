@@ -1,0 +1,14 @@
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\bin\Debug\net7.0\injecaoDeDependencia.exe
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\bin\Debug\net7.0\injecaoDeDependencia.deps.json
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\bin\Debug\net7.0\injecaoDeDependencia.runtimeconfig.json
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\bin\Debug\net7.0\injecaoDeDependencia.dll
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\bin\Debug\net7.0\injecaoDeDependencia.pdb
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.AssemblyInfoInputs.cache
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.AssemblyInfo.cs
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.dll
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\refint\injecaoDeDependencia.dll
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.pdb
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\injecaoDeDependencia.genruntimeconfig.cache
+C:\Users\t60811\Desktop\CSHARP\injecaoDeDependencia\obj\Debug\net7.0\ref\injecaoDeDependencia.dll
